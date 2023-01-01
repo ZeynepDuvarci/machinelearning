@@ -1,2 +1,3 @@
 # machinelearning
- Scores-Linear Regression
+ Scores - Linear Regression
+ heart_cleveland_upload - Logistic Regression and KNN
