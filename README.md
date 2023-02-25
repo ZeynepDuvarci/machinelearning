@@ -1,3 +1,4 @@
-# machinelearning
-### Scores - Linear Regression
-### heart_cleveland_upload - Logistic Regression and KNN
+<p align="center">
+  <img src="machinelearning.jpg"  />
+</p>
+
